@@ -42,7 +42,7 @@ Setup and Installation
 
 Clone the repository:
 
-git clone [YOUR_REPOSITORY_URL]
+git clone [https://github.com/Sarthak0932/SHODH-AI-HIRING.git]
 
 
 Create and activate a virtual environment (recommended):
